@@ -1,0 +1,6 @@
+site_name: My Docs
+pages:
+- ['index.md', 'Home']
+- ['java/jni.md', 'java', 'jni.md']
+
+theme: flatly
